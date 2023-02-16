@@ -1,4 +1,4 @@
-# Dataanalyst
+# DataAnalyst
 This shows some of the visualizations that i have created as part of my internship projects:
 I am an entry level Data Analyst working for State Of Maryland in Data Office. I have work experience in UI domain in India for 3+ years developing web applications for various clients with technical skills in scripting as JavaScript, HTML, CSS, ReactJS etc. After that I came to USA and finished graduate school, master’s in information systems, from UMBC. During which I learned a lot about data science, data mining which interested me to learn a little bit more related to data. I got an opportunity to do my summer internship at State of Maryland and work with data projects related to student data, hiring data, healthcare data, crime data. ,I had used those data sheets to make Rest API connection to the open data API and generated dashboards and visualization reports.I used various SQL queries, for set expressions, quantitative and qualitative analysis to generate visualizations in Qlik View, Tableau and PowerBI. I am still learning and improving my skills related to data and will be updating them here. 
 
